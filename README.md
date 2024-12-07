@@ -20,8 +20,8 @@ Ensure Git is installed for version control.
 
 ### Clone the Repository
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/Sonugupta2001/railway-booking
+cd railway-booking
 ```
 
 ### Install Dependencies
