@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Sonu@2001",
+    "database": "railway_database",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Sonu@2001",
+    "database": "test_database",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Sonu@2001",
+    "database": "production_database",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
