@@ -32,8 +32,8 @@ npm install
 ### Set Up Environment Variables
 Create a .env file in the root directory and add the following variables:
 ```env
-PORT=5000
-DATABASE_URL=postgres://<username>:<password>@localhost:5432/<database_name>
+PORT=3001
+DATABASE_URL=<your-postgreSQL-url>
 JWT_SECRET=<your-jwt-secret>
 ADMIN_API_KEY=<your-admin-api-key>
 ```
