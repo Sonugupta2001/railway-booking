@@ -84,7 +84,6 @@ Description: Login to the system to get an access token.
 
 Request Body:
 ```json
-Copy code
 {
   "email": "johndoe@example.com",
   "password": "password123"
@@ -93,7 +92,6 @@ Copy code
 
 Response:
 ```json
-Copy code
 {
   "message": "Login successful",
   "token": "<JWT-token>"
