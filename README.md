@@ -48,7 +48,7 @@ npx sequelize-cli db:migrate
 ```bash
 npm start
 ```
-The server will run on http://localhost:5000.
+The server will run on http://localhost:3001.
 
 ## Assumptions
 A train has a fixed total number of seats.
